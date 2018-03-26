@@ -1,0 +1,3 @@
+[run]
+source = cookie
+omit = cookie/test*
